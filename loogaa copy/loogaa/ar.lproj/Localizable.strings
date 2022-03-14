@@ -1,0 +1,10 @@
+/* 
+  Localizable1.strings
+  loogaa
+
+  Created by Ahmed Assiri on 12/08/1443 AH.
+  
+*/
+
+"hello" = "مرحبا في تطبيقي";
+"changeLanguage" = "غير اللغة";
